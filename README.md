@@ -75,7 +75,7 @@ Explora la interfaz y las diferentes secciones de Veyro.
 
 Descarga Veyro y conoce más sobre la aplicación a través de sus canales oficiales.
 
-- **Descargar aplicación:** https://bc-veyro-hg9v.onrender.com
+- **Descargar aplicación:** https://github.com/JonasHXQE/VEYRO-APP/releases/download/Android/Veyro.apk
 - **Versión actual:** 1.0.0
   
 ### Historial de versiones
