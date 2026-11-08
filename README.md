@@ -1,7 +1,7 @@
 # Veyro
 
 <p align="center">
-  <img src="/logo.png" alt="Veyro Logo" width="120">
+  <img src="Assets/logo.png" alt="Veyro Logo" width="120">
 </p>
 
 <h3 align="center">Gestiona tus finanzas. Organiza tu dinero. Toma el control.</h3>
@@ -32,9 +32,9 @@ Su objetivo es ofrecer una experiencia sencilla, moderna e intuitiva que facilit
 ## Capturas de pantalla
 
 <p align="center">
-  <img src="assets/images/screenshot-1.png" alt="Veyro - Pantalla principal" width="30%">
-  <img src="assets/images/screenshot-2.png" alt="Veyro - Gestión financiera" width="30%">
-  <img src="assets/images/screenshot-3.png" alt="Veyro - Estadísticas" width="30%">
+  <img src="Assets/1.png" alt="Veyro - Pantalla principal" width="30%">
+  <img src="Assets/2.png" alt="Veyro - Gestión financiera" width="30%">
+  <img src="Assets/3.png" alt="Veyro - Estadísticas" width="30%">
 </p>
 
 ---
