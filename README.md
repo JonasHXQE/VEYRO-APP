@@ -68,8 +68,8 @@ Explora la interfaz y las diferentes secciones de Veyro.
 | Plataforma | Android |
 | Versión actual | 1.0.0 |
 | Desarrollador | Black Core S.A.C. |
-| Idioma | [Completar] |
-| Distribución | [Completar] |
+| Idioma | Español, Ingles, Chino, Japones, Ruso |
+| Distribución | Android - BlackCoreSAC |
 
 ## Disponibilidad
 
@@ -77,8 +77,7 @@ Descarga Veyro y conoce más sobre la aplicación a través de sus canales ofici
 
 - **Descargar aplicación:** https://bc-veyro-hg9v.onrender.com
 - **Versión actual:** 1.0.0
-- **Historial de versiones:** consulta la siguiente tabla.
-
+  
 ### Historial de versiones
 
 | Versión | Código de parche | Tipo | Descripción |
