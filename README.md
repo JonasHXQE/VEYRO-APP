@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/JonasHXQE/VEYRO-APP/releases/download/Android/Veyro.apk">
+      <a href="https://github.com/JonasHXQE/VEYRO-APP/releases/download/V1.0.0-PATCH-002/Veyro.apk">
         <img src="https://img.shields.io/badge/DESCARGAR_VEYRO-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Descargar Veyro">
       </a>
     </td>
