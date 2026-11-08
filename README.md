@@ -10,6 +10,16 @@
   Una experiencia moderna para la gestión y organización de tus finanzas personales.
 </p>
 
+<p align="center">
+  <a href="https://bc-veyro-hg9v.onrender.com">
+    Sitio web oficial
+  </a>
+  ·
+  <a href="https://bc-veyro-hg9v.onrender.com/portal?doc=privacidad">
+    Política de privacidad
+  </a>
+</p>
+
 ---
 
 ## Acerca de Veyro
@@ -31,17 +41,21 @@ Su objetivo es ofrecer una experiencia sencilla, moderna e intuitiva que facilit
 
 ## Capturas de pantalla
 
-<p align="center">
-  <img src="Assets/1.png" alt="Veyro - Pantalla principal" width="30%">
-  <img src="Assets/2.png" alt="Veyro - Gestión financiera" width="30%">
-  <img src="Assets/3.png" alt="Veyro - Estadísticas" width="30%">
-    <img src="Assets/4.png" alt="Veyro - Estadísticas" width="30%">
-    <img src="Assets/5.png" alt="Veyro - Estadísticas" width="30%">
-    <img src="Assets/6.png" alt="Veyro - Estadísticas" width="30%">
-    <img src="Assets/7.png" alt="Veyro - Estadísticas" width="30%">
-    <img src="Assets/8.png" alt="Veyro - Estadísticas" width="30%">
-    <img src="Assets/9.png" alt="Veyro - Estadísticas" width="30%">
-</p>
+Explora la interfaz y las diferentes secciones de Veyro.
+
+<table>
+  <tr>
+    <td><img src="Assets/1.png" alt="Veyro - Pantalla 1" width="190"></td>
+    <td><img src="Assets/2.png" alt="Veyro - Pantalla 2" width="190"></td>
+    <td><img src="Assets/3.png" alt="Veyro - Pantalla 3" width="190"></td>
+    <td><img src="Assets/4.png" alt="Veyro - Pantalla 4" width="190"></td>
+    <td><img src="Assets/5.png" alt="Veyro - Pantalla 5" width="190"></td>
+    <td><img src="Assets/6.png" alt="Veyro - Pantalla 6" width="190"></td>
+    <td><img src="Assets/7.png" alt="Veyro - Pantalla 7" width="190"></td>
+    <td><img src="Assets/8.png" alt="Veyro - Pantalla 8" width="190"></td>
+    <td><img src="Assets/9.png" alt="Veyro - Pantalla 9" width="190"></td>
+  </tr>
+</table>
 
 ---
 
@@ -52,41 +66,52 @@ Su objetivo es ofrecer una experiencia sencilla, moderna e intuitiva que facilit
 | Nombre | Veyro |
 | Categoría | Finanzas |
 | Plataforma | Android |
-| Versión | [Completar] |
-| Desarrollador | [Completar] |
+| Versión actual | 1.0.0 |
+| Desarrollador | Black Core S.A.C. |
 | Idioma | [Completar] |
 | Distribución | [Completar] |
 
 ## Disponibilidad
 
-Próximamente encontrarás aquí los enlaces oficiales para obtener Veyro.
+Descarga Veyro y conoce más sobre la aplicación a través de sus canales oficiales.
 
 - **Descargar aplicación:** https://bc-veyro-hg9v.onrender.com
-- **Versión actual:** [Completar]
-- **Historial de versiones:** [Añadir enlace]
+- **Versión actual:** 1.0.0
+- **Historial de versiones:** consulta la siguiente tabla.
+
+### Historial de versiones
+
+| Versión | Código de parche | Tipo | Descripción |
+|---|---|---|---|
+| 1.0.0 | PATCH-001 | Lanzamiento inicial | Primera versión oficial de Veyro. |
 
 ---
 
 ## Enlaces oficiales
 
-- **Sitio web:** [Añadir enlace]
-- **Instagram:** [Añadir enlace]
-- **Facebook:** [Añadir enlace]
-- **TikTok:** [Añadir enlace]
-- **YouTube:** [Añadir enlace]
+Conoce más sobre Veyro y mantente informado a través de nuestros canales oficiales.
+
+- **Sitio web:** https://bc-veyro-hg9v.onrender.com
+- **Instagram:** https://www.instagram.com/blackcoresac/
+- **Facebook:** https://www.facebook.com/profile.php?id=61596153600036
+- **YouTube:** https://www.youtube.com/@BlackCoreSac
 
 ## Soporte y contacto
 
-¿Tienes alguna consulta, sugerencia o deseas informar sobre algún problema?
+¿Tienes alguna consulta, sugerencia o deseas informar sobre algún problema relacionado con Veyro?
 
-- **Correo electrónico:** [Añadir correo]
-- **Centro de soporte:** [Añadir enlace]
+Nuestro equipo de soporte está disponible a través de los siguientes medios:
+
+- **Correo electrónico:** Black.Core.SAC@gmail.com
+- **Teléfono de contacto:** +51 915 345 098
 
 ## Privacidad
 
 La privacidad y la seguridad de la información forman parte de los aspectos importantes del desarrollo de Veyro.
 
-- **Política de privacidad:** [Añadir enlace]
+Consulta nuestra política de privacidad para conocer más sobre el tratamiento de la información y las condiciones relacionadas con el uso de la aplicación.
+
+- **Política de privacidad:** https://bc-veyro-hg9v.onrender.com/portal?doc=privacidad
 
 ---
 
@@ -94,4 +119,6 @@ La privacidad y la seguridad de la información forman parte de los aspectos imp
 
 **Copyright © 2026 Veyro. Todos los derechos reservados.**
 
-[Completar información sobre la licencia y las condiciones de uso del proyecto].
+Veyro es un producto de Black Core S.A.C.
+
+Queda reservada la totalidad de los derechos sobre la identidad, marca y elementos propios de Veyro, salvo autorización expresa de sus titulares.
