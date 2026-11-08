@@ -119,16 +119,23 @@ Conoce más sobre Veyro y mantente informado a través de nuestros canales ofici
 
 ## Soporte y contacto
 
-¿Tienes alguna consulta, sugerencia o deseas informar sobre algún problema relacionado con Veyro?
+¿Tienes alguna consulta, sugerencia o deseas informar sobre algún problema relacionado con Veyro? Nuestro equipo está disponible para ayudarte.
 
-<p align="center">
-  <a href="mailto:Black.Core.SAC@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACTAR_POR_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo de soporte">
-  </a>
-</p>
-
-- **Correo electrónico:** Black.Core.SAC@gmail.com
-- **Teléfono:** +51 915 345 098
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:Black.Core.SAC@gmail.com">
+        <img src="https://img.shields.io/badge/CONTACTAR_POR_CORREO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo">
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center">
+      <a href="tel:+51915345098">
+        <img src="https://img.shields.io/badge/CONTACTAR_POR_TELEFONO-25A55F?style=for-the-badge&logo=phone&logoColor=white" alt="Llamar a soporte">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
