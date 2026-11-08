@@ -35,6 +35,12 @@ Su objetivo es ofrecer una experiencia sencilla, moderna e intuitiva que facilit
   <img src="Assets/1.png" alt="Veyro - Pantalla principal" width="30%">
   <img src="Assets/2.png" alt="Veyro - Gestión financiera" width="30%">
   <img src="Assets/3.png" alt="Veyro - Estadísticas" width="30%">
+    <img src="Assets/4.png" alt="Veyro - Estadísticas" width="30%">
+    <img src="Assets/5.png" alt="Veyro - Estadísticas" width="30%">
+    <img src="Assets/6.png" alt="Veyro - Estadísticas" width="30%">
+    <img src="Assets/7.png" alt="Veyro - Estadísticas" width="30%">
+    <img src="Assets/8.png" alt="Veyro - Estadísticas" width="30%">
+    <img src="Assets/9.png" alt="Veyro - Estadísticas" width="30%">
 </p>
 
 ---
