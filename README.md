@@ -1,7 +1,7 @@
 # Veyro
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="Veyro Logo" width="120">
+  <img src="/logo.png" alt="Veyro Logo" width="120">
 </p>
 
 <h3 align="center">Gestiona tus finanzas. Organiza tu dinero. Toma el control.</h3>
