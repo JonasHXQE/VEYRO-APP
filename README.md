@@ -61,7 +61,7 @@ Su objetivo es ofrecer una experiencia sencilla, moderna e intuitiva que facilit
 
 Próximamente encontrarás aquí los enlaces oficiales para obtener Veyro.
 
-- **Descargar aplicación:** [Añadir enlace]
+- **Descargar aplicación:** https://bc-veyro-hg9v.onrender.com
 - **Versión actual:** [Completar]
 - **Historial de versiones:** [Añadir enlace]
 
