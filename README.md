@@ -29,12 +29,6 @@ Su objetivo es ofrecer una experiencia sencilla, moderna e intuitiva que facilit
 
 ---
 
-## Vista previa
-
-<p align="center">
-  <img src="assets/images/banner.png" alt="Veyro Banner" width="100%">
-</p>
-
 ## Capturas de pantalla
 
 <p align="center">
